@@ -1,4 +1,4 @@
-let users = ['Ola', 'Ania', 'Tomek', 'Bartek', 'Adam'];
+let users = ['Ola', 'Ania', 'Tomek', 'Bartek', 'Adam', 'Ula', 'Zenek'];
 
 
 
